@@ -9,7 +9,7 @@ application:
 
 info:
   assistenza:
-    nome = "Stefano Asprone"
+    nome: "Stefano Asprone"
   nome:
-    nome-app = "PriceArt Web Service - Versione Autenticazione JWT"
-  profilo = "Listino 100 con sconto"
+    nome-app: "PriceArt Web Service - Versione Autenticazione JWT"
+  profilo: "Listino 100 con sconto"

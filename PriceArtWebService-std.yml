@@ -11,6 +11,6 @@ info:
   assistenza:
     nome = "Stefano Asprone"
   nome:
-    nome-app = "PriceArt Web Service - Versione Autenticazione JWT"
-  profilo = "Standard con sconto"
+    nome-app: "PriceArt Web Service - Versione Autenticazione JWT"
+  profilo: "Standard con sconto"
 
